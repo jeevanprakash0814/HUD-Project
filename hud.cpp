@@ -40,7 +40,7 @@ class barGraph{
 
 };
 
-class Gauge::Gauge{
+/*class Gauge{
 
     double scaleValues;
     int scaleSize;
@@ -65,3 +65,4 @@ class Gauge::Gauge{
 
 
 };
+*/
